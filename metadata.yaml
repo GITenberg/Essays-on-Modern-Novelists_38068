@@ -1,0 +1,33 @@
+_repo: Essays-on-Modern-Novelists_38068
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38068-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Phelps, William Lyon
+    birthdate: 1865
+    deathdate: 1943
+    gutenberg_agent_id: '1907'
+    url: http://www.gutenberg.org/2009/agents/1907
+    wikipedia: http://en.wikipedia.org/wiki/William_Lyon_Phelps
+description: ''
+gutenberg_issued: '2011-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38068'
+  lccn: '10002313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction -- History and criticism'
+- !lcc 'PN'
+tableOfContents: 'William De Morgan -- Thomas Hardy -- William Dean Howells -- Björnstjerne
+  Björnson -- Mark Twain -- Henryk Sienkiewicz -- Hermann Sudermann -- Alfred Ollivant
+  -- Robert Louis Stevenson -- Mrs. Humphry Ward -- Rudyard Kipling -- "Lorna Doone"
+  -- Appendices: A. Novels as a university study. B. The teacher''s attitude toward
+  contemporary literature. C. Two poems -- List of publications.'
+title: Essays on Modern Novelists
+url: http://www.gutenberg.org/ebooks/38068
